@@ -1,0 +1,30 @@
+{
+  "name": "libant-legacy",
+  "version": "1.0.0",
+  "description": "ANT wireless USB library",
+  "main": "anthost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkskoglund/libant-legacy.git"
+  },
+  "keywords": [
+    "ant",
+    "ant+",
+    "wireless",
+    "sensor",
+    "USB",
+    "heartrate",
+    "temperature",
+    "speed",
+    "cadence"
+  ],
+  "author": "Henning Knut Skoglund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hkskoglund/libant-legacy/issues"
+  },
+  "homepage": "https://github.com/hkskoglund/libant-legacy#readme"
+}
